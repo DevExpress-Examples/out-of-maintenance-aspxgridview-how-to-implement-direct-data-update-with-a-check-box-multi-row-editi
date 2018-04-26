@@ -1,4 +1,4 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
+﻿Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C:\...\WebSite\", "WebSite\", "{18176CEF-9005-49D8-9B66-677C418C3C58}"
 	ProjectSection(WebsiteProperties) = preProject
@@ -17,7 +17,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C:\...\WebSite\", "WebSite\
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "2806"
-		DefaultWebSiteLanguage = "Visual C#"
+		DefaultWebSiteLanguage = "Visual Basic"
 	TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
 EndProjectSection
 EndProject
