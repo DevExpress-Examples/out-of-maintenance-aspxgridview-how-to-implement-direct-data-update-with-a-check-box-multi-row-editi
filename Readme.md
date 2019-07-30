@@ -1,6 +1,6 @@
 # ASPxGridView - How to implement direct data update with a check box (multi-row editing)
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e79)**
+**[[Run Online]](https://codecentral.devexpress.com/e79/)**
 <!-- run online end -->
 
 
