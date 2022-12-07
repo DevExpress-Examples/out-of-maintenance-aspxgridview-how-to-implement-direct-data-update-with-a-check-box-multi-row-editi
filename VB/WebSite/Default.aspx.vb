@@ -23,7 +23,7 @@ Partial Public Class BatchUpdate
             provider.Populate()
         End If
     End Sub
-    Protected Sub grid_CustomDataCallback(ByVal sender As Object, ByVal e As DevExpress.Web.ASPxGridView.ASPxGridViewCustomDataCallbackEventArgs)
+    Protected Sub grid_CustomDataCallback(ByVal sender As Object, ByVal e As DevExpress.Web.ASPxGridViewCustomDataCallbackEventArgs)
         Dim res() As String = e.Parameters.Split(":"c)
         If res.Length <> 2 Then
             Return

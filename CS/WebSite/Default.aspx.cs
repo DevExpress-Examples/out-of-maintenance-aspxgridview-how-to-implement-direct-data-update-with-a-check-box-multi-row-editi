@@ -21,7 +21,7 @@ public partial class BatchUpdate : System.Web.UI.Page {
             provider.Populate();
         }
     }
-    protected void grid_CustomDataCallback(object sender, DevExpress.Web.ASPxGridView.ASPxGridViewCustomDataCallbackEventArgs e) {
+    protected void grid_CustomDataCallback(object sender, DevExpress.Web.ASPxGridViewCustomDataCallbackEventArgs e) {
         string[] res = e.Parameters.Split(':');
         if(res.Length != 2) return;
         int id = -1;
